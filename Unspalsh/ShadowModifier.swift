@@ -3,7 +3,7 @@
 //  Unspalsh
 //
 //  Created by Asge Yohannes on 6/5/20.
-//  Copyright © 2020 Balaji. All rights reserved.
+//  Copyright © 2020 AsgeY. All rights reserved.
 //
 
 import SwiftUI
