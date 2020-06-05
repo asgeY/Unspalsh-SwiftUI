@@ -2,8 +2,8 @@
 //  UnspalshUITests.swift
 //  UnspalshUITests
 //
-//  Created by Balaji on 04/06/20.
-//  Copyright © 2020 Balaji. All rights reserved.
+//  Created by AsgeY on 04/06/20.
+//  Copyright © 2020 AsgeY. All rights reserved.
 //
 
 import XCTest
